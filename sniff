@@ -1,0 +1,4 @@
+import os
+print('enter router ip')
+default = input()
+
